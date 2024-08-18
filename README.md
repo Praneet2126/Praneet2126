@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](assets/forGithub.png)
 <h1 align="center">Hi Devs!👋 I'm Praneet Kalyanshetti 🍁</h1>
 <h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
