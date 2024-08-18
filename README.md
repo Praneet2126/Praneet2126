@@ -1,7 +1,7 @@
 ![MasterHead](assets/forGithub.png)
 <h1 align="center">Hi Devs!👋 I'm Praneet Kalyanshetti 🍁</h1>
-<h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style={marginTop: "50px"}>
 
 # 💫 About Me:
 🔭 I’m currently working on developing cross-platform apps using Flutter.<br><br>🌱 I’m currently involved with Machine Learning.<br><br>👤 I'm open for full stack web development projects.<br><br>📫 How to reach me **praneetvkhp@gmail.com**<br><br>😁 Fun Fact: My superpower? Turning coffee into code. ☕➡️💻
