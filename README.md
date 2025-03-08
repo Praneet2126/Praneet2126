@@ -6,7 +6,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on developing cross-platform apps using Flutter.<br><br>🌱 I’m currently involved with Machine Learning.<br><br>👤 I'm open for full stack web development projects.<br><br>📫 How to reach me **praneetvkhp@gmail.com**<br><br>😁 Fun Fact: My superpower? Turning coffee into code. ☕➡️💻
+🔭 I’m currently working on developing projects in the Generative AI domain<br><br>🌱 I’m currently involved with Machine Learning.<br><br>👤 I'm open for full stack development projects.<br><br>📫 How to reach me **praneetkalyanshetti@gmail.com**<br><br>😁 Fun Fact: My superpower? Turning coffee into code. ☕➡️💻
 
 
 ## 🌐 Socials:
