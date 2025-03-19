@@ -1,18 +1,18 @@
 ![MasterHead](assets/forGithub.png)
 <h1 align="center">Hi Devs!👋 I'm Praneet Kalyanshetti 🍁</h1>
-<h3 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h3> 
+<h2 align="center">A Passionate Tech Enthusiast and a CSE Undergrad.</h2> 
 <div style="margin-top: 50px;">
     <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on **Deep Learning Based Skin Condition Detection**<br>
-🌱 I’m currently learning **Generative AI, Computer Vision**<br>
-👯 I’m ready to collaborate on **any project**<br>
-💬 Ask me about **React, Machine Learning, Git**<br>
-👨‍💻 Visit my portfolio: [Praneet's Portfolio](https://praneetkalyanshetti.vercel.app/)
-📫 How to reach me **praneetkalyanshetti@gmail.com**
-⚡ My specialty? **Turning my coffee into code!**
+<h3>🔭 I’m currently working on **Deep Learning Based Skin Condition Detection**<br><br></h3>
+<h3>🌱 I’m currently learning **Generative AI, Computer Vision**<br><br></h3>
+<h3>👯 I’m ready to collaborate on **any project**<br><br></h3>
+<h3>💬 Ask me about **React, Machine Learning, Git**<br><br></h3>
+<h3>👨‍💻 Visit my portfolio: [Praneet's Portfolio](https://praneetkalyanshetti.vercel.app/)<br></h3>
+<h3>📫 How to reach me **praneetkalyanshetti@gmail.com**<br></h3>
+<h3>⚡ My specialty? **Turning my coffee into code!**<br></h3>
 
 
 ## 🌐 Socials:
