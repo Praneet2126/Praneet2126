@@ -12,7 +12,7 @@
 💬 Ask me about **React, Machine Learning, Git**<br><br>
 👨‍💻 Visit my portfolio: [Praneet's Portfolio](https://praneetkalyanshetti.vercel.app/)<br><br>
 📫 How to reach me **praneetkalyanshetti@gmail.com**<br><br>
-⚡ My specialty? **Turning my coffee into code!**<br><br>
+⚡ My specialty? **Turning coffee into code!**<br><br>
 
 
 ## 🌐 Socials:
